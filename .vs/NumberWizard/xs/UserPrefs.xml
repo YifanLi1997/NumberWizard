@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F8D79369-C1D1-ABC4-4D75-39DE089F0D26}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneLoader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="21" Column="28" />
+      <File FileName="Assets/Scripts/GameLogic.cs" Line="21" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f218cf55-c43b-435d-b170-64d54bf5dbf0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
